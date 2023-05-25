@@ -1,0 +1,10 @@
+[
+null,
+{"id":1,"atypeId":5,"description":"","etypeId":2,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":128,"name":"Shield","note":"","params":[0,0,0,10,0,0,0,0],"price":300},
+{"id":2,"atypeId":1,"description":"","etypeId":3,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":130,"name":"Hat","note":"","params":[0,0,0,10,0,0,0,0],"price":300},
+{"id":3,"atypeId":1,"description":"","etypeId":4,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":135,"name":"Cloth","note":"","params":[0,0,0,10,0,0,0,0],"price":300},
+{"id":4,"atypeId":1,"description":"","etypeId":5,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":145,"name":"Ring","note":"","params":[0,0,0,0,10,0,0,0],"price":300},
+{"id":5,"atypeId":3,"description":"uncle tom used to be a great dancer back in his day ;)","etypeId":5,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":150,"name":"uncle toms lucky ribbon","note":"","params":[2,2,2,15,2,2,2,50],"price":50},
+{"id":6,"atypeId":3,"description":"An old raggedy cloak there's a few holes in the back","etypeId":4,"traits":[{"code":22,"dataId":1,"value":0},{"code":12,"dataId":3,"value":0.25}],"iconIndex":139,"name":"Cloak","note":"","params":[0,0,0,0,0,0,0,0],"price":15},
+{"id":7,"atypeId":4,"description":"Protects your head","etypeId":2,"traits":[{"code":22,"dataId":1,"value":0},{"code":52,"dataId":4,"value":1}],"iconIndex":132,"name":"Knight Helmet","note":"","params":[0,0,0,40,0,0,0,0],"price":69}
+]

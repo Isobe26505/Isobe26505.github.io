@@ -1,0 +1,5 @@
+[
+null,
+{"id":1,"battlerName":"","characterIndex":5,"characterName":"People3","classId":1,"equips":[1,1,2,3,0],"faceIndex":5,"faceName":"People3","traits":[],"initialLevel":1,"maxLevel":99,"name":"Sir Mortemere II","nickname":"Mort","note":"","profile":""},
+{"id":2,"battlerName":"","characterIndex":0,"characterName":"Nature","classId":5,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"Nature","traits":[],"initialLevel":1,"maxLevel":99,"name":"doggo","nickname":"dawg","note":"","profile":"dog"}
+]
